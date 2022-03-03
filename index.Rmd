@@ -1,0 +1,41 @@
+---
+title: "Anthony Devaux"
+image: "antho.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/anthony-devaux-44540b153/"
+  - label: GitHub
+    url: "https://github.com/anthonydevaux/"
+  - label: Email
+    url: "anthony.devaux@u-bordeaux.fr"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi! My name is Anthony Devaux, I'm a PhD student in Biostatistics at the university of Bordeaux (France). My research is mainly focus on the development of new methodologies in order to predict health events from multiple longitidunal biomarkers.
+
+## Education
+
+**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
+
+Ph.D. in Biostatistics | September 2019 - September 2022
+
+**ISPED School of public health** | Bordeaux, FRANCE
+
+Master in Public Health with biostatistics speciality | September 2018 - June 2019
+
+## Experience
+
+**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
+
+Principal Investigator | January 2018 - Present
+
+**Laboratoire National de Santé** | Luxembourg, LUXEMBOURG
+
+Statistician | September 2009 - December 2011
+
+## Publications
+
+ - 
