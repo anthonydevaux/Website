@@ -1,5 +1,5 @@
 ---
-title: "Anthony Devaux"
+title: "Anthony Devaux, PhD"
 image: "antho.jpg"
 links:
   - label: LinkedIn
@@ -7,37 +7,50 @@ links:
   - label: GitHub
     url: "https://github.com/anthonydevaux/"
   - label: Email
-    url: "anthony.devaux@u-bordeaux.fr"
+    url: "anthony.devauxbarault@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Hi! My name is Anthony Devaux, I'm a PhD student in Biostatistics at the university of Bordeaux (France). My research is mainly focus on the development of new methodologies in order to predict health events from multiple longitidunal biomarkers.
+Hi! My name is Anthony Devaux, I'm currently working as a Biostatistician at the George Institute for Global Health in Sydney, AUSTRALIA. Previously, I graduated my PhD in Biostatistics at the University of Bordeaux, FRANCE. My PhD topic was "Dynamic modelling and prediction of health events from multivariate longitudinal data".
+
+## Work experiences
+
+- **Biostatistician** | March 2023 - Present | *The George Institute for Global Health* | Sydney, AUSTRALIA
+
+- **PhD candidate** | September 2019 - December 2022 | *Bordeaux Population Health, Inserm U1219* | Bordeaux, FRANCE
+
+- **Admission office manager** | January 2013 - August 2017 | *Moulins-Yzeure Hospital* | Moulins, FRANCE
+
+- **Statistician** | September 2010 - December 2012 | *Laboratoire National de Santé* | Luxembourg, LUXEMBOURG
 
 ## Education
 
-**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
+- **PhD in Biostatistics** | September 2019 - December 2022 | 
+*Bordeaux Population Health, Inserm U1219* | Bordeaux, FRANCE
 
-Ph.D. in Biostatistics | September 2019 - September 2022
+- **Master in Public Health, option Biostatistics** | September 2018 - June 2019 | *ISPED School of public health* | Bordeaux, FRANCE
 
-**ISPED School of public health** | Bordeaux, FRANCE
-
-Master in Public Health with biostatistics speciality | September 2018 - June 2019
-
-## Experience
-
-**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
-
-Assistant statistician | January 2018 - Present
-
-**Laboratoire National de Santé** | Luxembourg, LUXEMBOURG
-
-Statistician | September 2009 - December 2011
+- **Bachelor in Statistics, option Application to life sciences** | September 2009 - June 2010 | *University of Lorraine* | Metz, FRANCE
 
 ## Publications
 
- - 
+- **Devaux, A.**, Proust-Lima, C. and Genuer, R. (2022). Random Forests for time-fixed and time-dependent predictors: The DynForest R package. *arXiv*. doi: [https://doi.org/10.48550/arXiv.2302.02670](https://doi.org/10.48550/arXiv.2302.02670)
+
+- **Devaux, A.**, Helmer, C., Genuer, R., and Proust-Lima, C. (2022). Random survival forests with multivariate longitudinal endogenous covariates. *arXiv*. doi: [https://doi.org/10.48550/arXiv.2208.05801](https://doi.org/10.48550/arXiv.2208.05801)
+
+- **Devaux, A.**, Genuer, R., Peres, K., and Proust-Lima, C. (2022). Individual dynamic prediction of clinical endpoint from large dimensional longitudinal biomarker history: a landmark approach. *BMC Medical Research Methodology*, 22(1): 1–14. doi: [https://doi.org/10.1186/s12874-022-01660-3](https://doi.org/10.1186/s12874-022-01660-3)
+
+- Mossong, J., Mughini-Gras, L., Penny, C., **Devaux, A.**, Olinger, C., Losch, S., Cauchie, H.M., Van Pelt, W. and Ragimbeau, C. (2016). Human Campylobacteriosis in Luxembourg, 2010–2013: A Case-Control Study Combined with Multilocus Sequence Typing for Source Attribution and Risk Factor Analysis. *Scientific Reports*, 6(1): 1-12. doi: [https://doi.org/10.1038/srep20939](https://doi.org/10.1038/srep20939)
+
+- Ragimbeau, C., Colin, S., **Devaux, A.**, Decruyenaere, F., Cauchie, H.M., Losch, S., Penny, C. and Mossong, J. (2014). Investigating the host specificity of Campylobacter jejuni and Campylobacter coli by sequencing gyrase subunit A. *BMC microbiology*, 14(1): 1-12. doi: [https://doi.org/10.1186/s12866-014-0205-7](https://doi.org/10.1186/s12866-014-0205-7)
+
+- Mossong, J., Gelhausen, E., Decruyenaere, F., **Devaux, A.**, Perrin, M., Even, J. and Heisbourg E. (2013). Prevalence, risk factors and molecular epidemiology of methicillin-resistant Staphylococcus aureus (MRSA) colonization in residents of long-term care facilities in Luxembourg, 2010. *Epidemiology & Infection*, 141(6): 1199-1205. doi: [https://doi.org/10.1017/S0950268812001999](https://doi.org/10.1017/S0950268812001999)
 
 ## Packages
+
+- **DynForest**: Random Forest with Multivariate Longitudinal Predictors. R package version: 1.1.1. [https://CRAN.R-project.org/package=DynForest](https://CRAN.R-project.org/package=DynForest)
+
+- **hdlandmark**: Dynamic Predictions with Multivariate Longitudinal Predictors by Landmark Approach. GitHub development version. [https://github.com/anthonydevaux/hdlandmark](https://github.com/anthonydevaux/hdlandmark)
